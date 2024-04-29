@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+:root {
+	--primary: #e5ccf4;
+	--secondary: #5c509c;
+	--accent: #a080e1;
+	--white: #fff;
+	--color1: #382d72;
+	--color2: #b7c2c6;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: var(--primary);
+	color: var(--secondary);
+}
